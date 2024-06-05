@@ -1,0 +1,189 @@
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Form1.resources
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Form2.resources
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Properties.Resources.resources
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.GenerateResource.cache
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.CoreCompileInputs.cache
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe.config
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.pdb
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+C:\Sistema LOJA MOTO\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe.config
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.pdb
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Properties.Resources.resources
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.GenerateResource.cache
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaLogin.resources
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaSistema.resources
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\MySql.Data.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Buffers.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Memory.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\ZstdSharp.dll
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.pdb
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\MySql.Data.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Buffers.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Memory.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Desenvolvimento\FAISP\Sistema LOJA MOTO (2)\Sistema LOJA MOTO\obj\Debug\Sistema .DAD9DA77.Up2Date
+C:\Users\alexs\OneDrive\Desktop\Sistema Loja de Motos Usadas\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Desktop\Sistema Loja de Motos Usadas\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+C:\Users\alexs\OneDrive\Desktop\Sistema Loja de Motos Usadas\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
+E:\Desenvolvimento\FAISP\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+E:\Desenvolvimento\FAISP\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+E:\Desenvolvimento\FAISP\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe.config
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.pdb
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\MySql.Data.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Buffers.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Memory.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\ZstdSharp.dll
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.pdb
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\MySql.Data.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Buffers.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Memory.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaLogin.resources
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Properties.Resources.resources
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaSistema.resources
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.GenerateResource.cache
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.CoreCompileInputs.cache
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema .DAD9DA77.Up2Date
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+D:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe.config
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.pdb
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\MySql.Data.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Buffers.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Memory.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\ZstdSharp.dll
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.pdb
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\MySql.Data.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Buffers.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Memory.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaLogin.resources
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Properties.Resources.resources
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaSistema.resources
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.GenerateResource.cache
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.CoreCompileInputs.cache
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema .DAD9DA77.Up2Date
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+E:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe.config
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.pdb
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\MySql.Data.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Buffers.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Memory.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\ZstdSharp.dll
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.pdb
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\MySql.Data.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Buffers.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Memory.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaLogin.resources
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Properties.Resources.resources
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaSistema.resources
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.GenerateResource.cache
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.CoreCompileInputs.cache
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema .DAD9DA77.Up2Date
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
