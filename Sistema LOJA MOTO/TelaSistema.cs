@@ -17,7 +17,6 @@ namespace Sistema_LOJA_MOTO
             try
             {
                 conn.ConnectionString = detailsConnection;
-                conn.Open();
             }
             catch (MySqlException)
             {
@@ -29,7 +28,8 @@ namespace Sistema_LOJA_MOTO
         }
 
         // Método que faz a inserção de valores no comboBoxParcelas e comboBoxAno.
-        private void inicializaItemsCombobox(){
+        private void inicializaItemsCombobox()
+        {
 
             for (int i = 1; i < 48 + 1; i++)
             {
@@ -69,7 +69,7 @@ namespace Sistema_LOJA_MOTO
                 valorParcelas = novoValorVenda / parcelas;
             }
 
-            double[] resultado = {novoValorVenda, valorParcelas};
+            double[] resultado = { novoValorVenda, valorParcelas };
 
             return resultado;
         }
@@ -89,20 +89,21 @@ namespace Sistema_LOJA_MOTO
             double totalPagar = capturaValores[0];
             double valorParcelas = capturaValores[1];
 
-            labelSubtituloResultadoTotalPagar.Text = totalPagar.ToString("#,##0.###");
+            labelSubtituloResultadoTotalPagar.Text = totalPagar.ToString("#,0.00");
             labelSubtituloResultadoTotalPagar.Visible = true;
 
-            labelSubtituloResultadoValorParcela.Text = valorParcelas.ToString("#,##0.##");
+            labelSubtituloResultadoValorParcela.Text = valorParcelas.ToString("#,0.00");
             labelSubtituloResultadoValorParcela.Visible = true;
         }
 
         // Método do botão Cadastrar.
         private void btn_cadastrar_Click(object sender, EventArgs e)
         {
+            conn.Open();
             string modelo = textBoxModelo.Text;
             string marca = comboBoxMarca.Text;
             int ano = int.Parse(comboBoxAno.Text);
-            int cilindrada = int.Parse(textBoxCilindrada.Text);
+            double cilindrada = double.Parse(textBoxCilindrada.Text);
             double quilometragem = double.Parse(textBoxQuilometragem.Text);
             string cor = comboBoxCor.Text;
             double valorOriginal = double.Parse(textBoxValorOriginal.Text);
@@ -122,7 +123,9 @@ namespace Sistema_LOJA_MOTO
             }
             else
             {
-                string MYSQuery = "INSERT INTO motos_vendas VALUES (null,'" + modelo + "', '" + marca + "', " + ano + ", " + cilindrada + ", " + quilometragem.ToString("#,##0.###", new CultureInfo("en-US")) + ", '" + cor + "', " + valorOriginal.ToString("#,##0.###", new CultureInfo("en-US")) + ", " + totalPagar.ToString("#,##0.###", new CultureInfo("en-US")) + ", '" + placa + "', " + parcelas + ", " + valorParcelas.ToString("#,##0.###", new CultureInfo("en-US")) + ", '" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + "', null, '" + descricao + "', null, null);";
+                string MYSQuery = "INSERT INTO motos_vendas (codigo, modelo, marca, ano, cilindrada, placa, quilometragem, cor, valor_original, valor_venda, valor_total, parcelas, valor_parcelas, data_anuncio, descricao, delete_by, delete_at) VALUES (null, '" + modelo + "', '" + marca + "', " + ano + ", " + cilindrada + ", '" + placa + "', " + quilometragem + ", '" + cor + "', " + valorOriginal + ", " + valorVenda + ", " + capturaValores[0].ToString("0.00", new CultureInfo("en-US")) + ", " + parcelas + ", " + capturaValores[1].ToString("0.00", new CultureInfo("en-US")) + ", '" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + "', '" + descricao + "', null, null)";
+
+                MessageBox.Show(MYSQuery);
 
                 try
                 {
@@ -131,9 +134,10 @@ namespace Sistema_LOJA_MOTO
                     MessageBox.Show("Cadastro foi realizado com sucesso!");
                     limpaCamposFormulario();
                 }
-                catch (MySqlException)
+                catch (MySqlException erro)
                 {
-                    MessageBox.Show("Ocorreu um erro na tentativa do cadastro!");
+                    MessageBox.Show("Ocorreu um erro na tezntativa do cadastro!");
+                    MessageBox.Show(erro.Message);
                 }
             }
             conn.Close();
@@ -142,6 +146,7 @@ namespace Sistema_LOJA_MOTO
         // Método do Botão Alterar.
         private void btn_alterar_Click(object sender, EventArgs e)
         {
+            conn.Open();
             string modelo = textBoxModelo.Text;
             string marca = comboBoxMarca.Text;
             int ano = int.Parse(comboBoxAno.Text);
@@ -156,9 +161,6 @@ namespace Sistema_LOJA_MOTO
 
             double[] capturaValores = calculaPrecosMoto(valorVenda, parcelas);
 
-            double totalPagar = capturaValores[0];
-            double valorParcelas = capturaValores[1];
-
             if (modelo == "" || marca == "" || cor == "")
             {
                 MessageBox.Show("Os campos precisam estar preenchidos para fazer alterações!");
@@ -167,7 +169,7 @@ namespace Sistema_LOJA_MOTO
             {
                 int codigo = int.Parse(textBoxCodigo.Text);
 
-                string strsql = "UPDATE motos_vendas SET modelo='" + modelo + "', marca='" + marca + "', ano=" + ano + ", cilindrada=" + cilindrada + ", quilometragem=" + quilometragem.ToString("#,##0.###", new CultureInfo("en-US")) + ", cor='" + cor + "', valor_original=" + valorOriginal.ToString("#.###", new CultureInfo("en-US")) + ", valor_venda=" + valorVenda.ToString("#,##0.###", new CultureInfo("en-US")) + ", placa='" + placa + "', parcelas=" + parcelas + ", descricao='" + descricao + "' WHERE codigo=" + codigo + ";";
+                string strsql = "UPDATE motos_vendas SET modelo='" + modelo + "', marca='" + marca + "', ano=" + ano + ", cilindrada=" + cilindrada + ", placa='" + placa + "', quilometragem=" + quilometragem + ", cor='" + cor + "', valor_original=" + valorOriginal + ", valor_venda=" + valorVenda + ", valor_total=" + capturaValores[0].ToString("0.00", new CultureInfo("en-US")) + ", parcelas=" + parcelas + ", valor_parcelas=" + capturaValores[1].ToString("0.00", new CultureInfo("en-US")) + ", descricao='" + descricao + "' WHERE codigo=" + codigo + ";";
 
                 if (MessageBox.Show("Deseja fazer Alteração na Moto?", "Alterar", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
@@ -184,10 +186,12 @@ namespace Sistema_LOJA_MOTO
                     }
                 }
             }
+            conn.Close();
         }
         // Método do Botão Consultar.
         private void btn_consultar_Click(object sender, EventArgs e)
         {
+            conn.Open();
             if (textBoxCodigo.Text == "")
             {
                 MessageBox.Show("Não foi possivel encontrar");
@@ -195,6 +199,7 @@ namespace Sistema_LOJA_MOTO
             else
             {
                 int codigo = int.Parse(textBoxCodigo.Text.Trim());
+
                 string strsql = "SELECT * FROM motos_vendas WHERE delete_by IS NULL AND codigo = " + codigo;
                 try
                 {
@@ -206,15 +211,19 @@ namespace Sistema_LOJA_MOTO
                     {
                         textBoxCodigo.Text = Convert.ToString(dt.Rows[0][0]);
                         textBoxModelo.Text = Convert.ToString(dt.Rows[0][1]);
-                        comboBoxMarca.Text = Convert.ToString(dt.Rows[0][2]); 
-                        comboBoxAno.Text = Convert.ToString(dt.Rows[0][3]); 
-                        textBoxCilindrada.Text = Convert.ToString(dt.Rows[0][4]); 
-                        textBoxQuilometragem.Text = Convert.ToString(dt.Rows[0][5]);
-                        comboBoxCor.Text = Convert.ToString(dt.Rows[0][6]);
-                        textBoxValorOriginal.Text = Convert.ToString(dt.Rows[0][7]);
-                        textBoxValorVenda.Text = Convert.ToString(dt.Rows[0][8]);
-                        textBoxPlaca.Text = Convert.ToString(dt.Rows[0][9]);
-                        comboBoxParcelas.Text = Convert.ToString(dt.Rows[0][10]);
+                        comboBoxMarca.Text = Convert.ToString(dt.Rows[0][2]);
+                        comboBoxAno.Text = Convert.ToString(dt.Rows[0][3]);
+                        textBoxCilindrada.Text = Convert.ToString(dt.Rows[0][4]);
+                        textBoxPlaca.Text = Convert.ToString(dt.Rows[0][5]);
+                        textBoxQuilometragem.Text = Convert.ToString(dt.Rows[0][6]);
+                        comboBoxCor.Text = Convert.ToString(dt.Rows[0][7]);
+                        textBoxValorOriginal.Text = Convert.ToString(dt.Rows[0][8]);
+                        textBoxValorVenda.Text = Convert.ToString(dt.Rows[0][9]);
+                        double totalPagar = Convert.ToDouble(dt.Rows[0][10]);
+                        labelSubtituloResultadoTotalPagar.Text = totalPagar.ToString("#,0.00");
+                        comboBoxParcelas.Text = Convert.ToString(dt.Rows[0][11]);
+                        double valorParcela = Convert.ToDouble(dt.Rows[0][12]);
+                        labelSubtituloResultadoValorParcela.Text = valorParcela.ToString("#,0.00");
                         textBoxDescricao.Text = Convert.ToString(dt.Rows[0][14]);
                     }
                 }
@@ -223,11 +232,13 @@ namespace Sistema_LOJA_MOTO
                     MessageBox.Show(ex.Message);
                 }
             }
+            conn.Close();
         }
 
         // Método do Botão Deletar.
         private void btn_deletar_Click(object sender, EventArgs e)
         {
+            conn.Open();
             if (textBoxCodigo.Text == "")
             {
                 MessageBox.Show("Não foi possivel encontrar");
@@ -235,7 +246,8 @@ namespace Sistema_LOJA_MOTO
             else
             {
                 int codigo = int.Parse(textBoxCodigo.Text.Trim());
-                string strsql = "UPDATE motos_vendas SET delete_by = "+1+", delete_at = '"+ DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + "' WHERE codigo = " + codigo;
+
+                string strsql = "UPDATE motos_vendas SET delete_by = " + 1 + ", delete_at = '" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + "' WHERE codigo = " + codigo;
 
                 if (MessageBox.Show("Deseja Exluir a Moto?", "Excluir", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
@@ -252,6 +264,7 @@ namespace Sistema_LOJA_MOTO
                     }
                 }
             }
+            conn.Close();
         }
 
         // Método do Botão Limpar.

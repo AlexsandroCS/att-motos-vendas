@@ -187,3 +187,46 @@ F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.cs
 F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema .DAD9DA77.Up2Date
 F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
 F:\Sistema Loja de Motos Usadas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe.config
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.exe
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Sistema LOJA MOTO.pdb
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\MySql.Data.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Buffers.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Memory.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\ZstdSharp.dll
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.pdb
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Google.Protobuf.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\K4os.Hash.xxHash.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\MySql.Data.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Buffers.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.IO.Pipelines.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Memory.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Numerics.Vectors.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.AssemblyReference.cache
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaLogin.resources
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.Properties.Resources.resources
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema_LOJA_MOTO.TelaSistema.resources
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.GenerateResource.cache
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema .DAD9DA77.Up2Date
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.exe
+E:\Desenvolvimento\CSharp\att-motos-vendas\Sistema LOJA MOTO\obj\Debug\Sistema LOJA MOTO.pdb

@@ -216,6 +216,7 @@
             // 
             // comboBoxAno
             // 
+            this.comboBoxAno.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxAno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.comboBoxAno.Font = new System.Drawing.Font("Malgun Gothic", 10F, System.Drawing.FontStyle.Bold);
             this.comboBoxAno.FormattingEnabled = true;
@@ -243,6 +244,7 @@
             // 
             // comboBoxParcelas
             // 
+            this.comboBoxParcelas.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxParcelas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.comboBoxParcelas.Font = new System.Drawing.Font("Malgun Gothic", 10F, System.Drawing.FontStyle.Bold);
             this.comboBoxParcelas.FormattingEnabled = true;
@@ -347,6 +349,8 @@
             // 
             // comboBoxCor
             // 
+            this.comboBoxCor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBoxCor.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.comboBoxCor.Font = new System.Drawing.Font("Malgun Gothic", 10F, System.Drawing.FontStyle.Bold);
             this.comboBoxCor.FormattingEnabled = true;
             this.comboBoxCor.Items.AddRange(new object[] {
@@ -367,6 +371,7 @@
             // 
             // comboBoxMarca
             // 
+            this.comboBoxMarca.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxMarca.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.comboBoxMarca.Font = new System.Drawing.Font("Malgun Gothic", 10F, System.Drawing.FontStyle.Bold);
             this.comboBoxMarca.FormattingEnabled = true;
